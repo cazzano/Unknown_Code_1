@@ -1,0 +1,7 @@
+# In .gitignore
+**/node_modules/
+**/venv/
+**/__pycache__/
+**/app_logs/
+**/.env
+**/preview_errors.log
