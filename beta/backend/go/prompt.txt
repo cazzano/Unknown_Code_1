@@ -1,0 +1,1 @@
+now i want you to create an logic on backend, that the email (kali@kali.com) and password (password123) can be changeable to backend from frontend button named as (change credentials), on /admin route and it will change these things from frontend to backend on a new module named credent.go.
